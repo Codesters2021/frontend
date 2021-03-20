@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.dashboard{
+    max-width: 17%;
+    background-color: #7686A6;
+    height: 100vh;
+    padding: .5%;
+}
+
+.main-board{
+    max-width: 83%;
+}
+
+.name{
+    font-size: 16px;
+}
+
+.title{
+    font-size: 11px;
+}
+
+.avatar{
+    height: 50px;
+    border-radius: 100px;
+    width: 50px;
+}
+
+.white-text{
+    color: white;
+}
+
+.center{
+    vertical-align: middle;
+    text-align: center;
+}
+
+.settings{
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+}
+
+.info{
+    margin: 0;
+
+}
+
+.no-padding-margin{
+    margin: 0;
+    padding: 0;
+}
+
+.white-line{
+    color: white;
+    height: 2px !important;
+    background-color: white !important;
+    opacity: 1;
+}
+
+.start{
+    height: 40px;
+}
+
+.digital-clock{
+    height: 50px;
+    display: block;
+    margin: 0 auto;
+}
+
+.logo-center{
+    display: block;
+    margin: 10px auto;
+    max-width: 40%;
+}
+
+.btn-dash{
+    width: 80%;
+    margin: 10px 10%;
+    background-color: rgb(255, 255, 255, 0.8);
+    box-shadow: 5px 5px 5px rgb(0,0,0, .3);
+}
